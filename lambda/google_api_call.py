@@ -27,4 +27,3 @@ if book_response.status_code == 200:
         print(book.get('description'), '\n')
     
 
-#
